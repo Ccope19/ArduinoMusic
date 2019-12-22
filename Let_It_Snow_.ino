@@ -104,9 +104,9 @@ int tempo = 130;
 int buzzer = 11;
 
 // notes of the moledy followed by the duration.
-// a 4 means a quarter note, 8 an eighteenth , 16 sixteenth, so on
+// a 4 means a quarter note, 8 an eighth , 16 sixteenth, so on
 // !!negative numbers are used to represent dotted notes,
-// so -4 means a dotted quarter note, that is, a quarter plus an eighteenth!!
+// so -4 means a dotted quarter note, that is, a quarter plus an eighth!!
 int melody[] = {
 
   // Let It Snow! Let It Snow! Let It Snow!, by Michael Buble
